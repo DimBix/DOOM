@@ -69,29 +69,29 @@ switchlist_t alphSwitchList[] =
     {"SW1STRTN",	"SW2STRTN",	1},
     
     // Doom registered episodes 2&3 switches
-    {"SW1BLUE",	"SW2BLUE",	2},
-    {"SW1CMT",		"SW2CMT",	2},
-    {"SW1GARG",	"SW2GARG",	2},
-    {"SW1GSTON",	"SW2GSTON",	2},
-    {"SW1HOT",		"SW2HOT",	2},
-    {"SW1LION",	"SW2LION",	2},
-    {"SW1SATYR",	"SW2SATYR",	2},
-    {"SW1SKIN",	"SW2SKIN",	2},
-    {"SW1VINE",	"SW2VINE",	2},
-    {"SW1WOOD",	"SW2WOOD",	2},
-    
-    // Doom II switches
-    {"SW1PANEL",	"SW2PANEL",	3},
-    {"SW1ROCK",	"SW2ROCK",	3},
-    {"SW1MET2",	"SW2MET2",	3},
-    {"SW1WDMET",	"SW2WDMET",	3},
-    {"SW1BRIK",	"SW2BRIK",	3},
-    {"SW1MOD1",	"SW2MOD1",	3},
-    {"SW1ZIM",		"SW2ZIM",	3},
-    {"SW1STON6",	"SW2STON6",	3},
-    {"SW1TEK",		"SW2TEK",	3},
-    {"SW1MARB",	"SW2MARB",	3},
-    {"SW1SKULL",	"SW2SKULL",	3},
+    //{"SW1BLUE",	"SW2BLUE",	2},
+    //{"SW1CMT",		"SW2CMT",	2},
+    //{"SW1GARG",	"SW2GARG",	2},
+    //{"SW1GSTON",	"SW2GSTON",	2},
+    //{"SW1HOT",		"SW2HOT",	2},
+    //{"SW1LION",	"SW2LION",	2},
+    //{"SW1SATYR",	"SW2SATYR",	2},
+    //{"SW1SKIN",	"SW2SKIN",	2},
+    //{"SW1VINE",	"SW2VINE",	2},
+    //{"SW1WOOD",	"SW2WOOD",	2},
+    //
+    //// Doom II switches
+    //{"SW1PANEL",	"SW2PANEL",	3},
+    //{"SW1ROCK",	"SW2ROCK",	3},
+    //{"SW1MET2",	"SW2MET2",	3},
+    //{"SW1WDMET",	"SW2WDMET",	3},
+    //{"SW1BRIK",	"SW2BRIK",	3},
+    //{"SW1MOD1",	"SW2MOD1",	3},
+    //{"SW1ZIM",		"SW2ZIM",	3},
+    //{"SW1STON6",	"SW2STON6",	3},
+    //{"SW1TEK",		"SW2TEK",	3},
+    //{"SW1MARB",	"SW2MARB",	3},
+    //{"SW1SKULL",	"SW2SKULL",	3},
 	
     {"\0",		"\0",		0}
 };

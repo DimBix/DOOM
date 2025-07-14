@@ -1,0 +1,7 @@
+//run:
+sudo Xephyr :2 -ac -screen 320x200x8
+//to start a screen
+
+//run:
+DISPLAY=:2 ./linuxxdoom
+//to start doom
